@@ -1,0 +1,4 @@
+0. 本APP程序理论上可以运行在Windows，Liunx，MacOS，等常见的操作系统中
+1. 安装python3
+2. 在命令行中找到解压文件夹目录，并运行 pip install -r requirements.txt
+3. 前置安装完成后在命令行中运行 python app.py
