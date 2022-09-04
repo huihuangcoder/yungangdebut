@@ -11,7 +11,7 @@
 4. 初次运行时会下载一些资源包，请确保通畅的网络环境，并耐心等待程序启动完成。
 
 
-# macOS
+# macOS版（已打包为.app文件，可以直接执行）
 Mac用户可以通过链接下载: https://pan.baidu.com/s/1NXp9eK1p6Up4Kl8B3nJYDw?pwd=ggvj 提取码: ggvj
 
 Mac用户也可以通过扫二维码下载
