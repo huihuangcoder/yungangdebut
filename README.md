@@ -2,7 +2,7 @@
 
 ![云冈初见logo](assets/app_icon.png)
 
-0. 本APP程序理论上可以运行在Windows，Liunx，MacOS，等常见的操作系统中
+0. 本APP程序理论上可以运行在Windows，Liunx，macOS，等常见的操作系统中
 1. 安装python3.9.0，并通过执行 python -m pip install --upgrade pip 确保pip更新到了最新版
 2. 为了确保不影响原系统的系统环境，建议最好先创建一个python的虚拟环境，并在此虚拟环境中进行操作
 3. 在命令行中找到解压文件夹目录，并运行 pip install -r requirements.txt
