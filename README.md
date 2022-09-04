@@ -10,6 +10,12 @@
 3. 前置安装完成后在命令行中运行 python app.py
 4. 初次运行时会下载一些资源包，请确保通畅的网络环境，并耐心等待程序启动完成。
 
+## Windows版(绿色版，无需安装，解压后点击 云冈初见.exe 可直接运行)
+百度网盘下载链接：https://pan.baidu.com/s/1pQyB6cUYwxceTJ5fqwdZIg?pwd=eqgh 提取码: eqgh
+
+或者扫二维码下载
+
+![微信扫二维码下载](WeChat_QR_code_win.png)
 
 ## macOS版（已打包为.app文件，可以直接执行）
 Mac用户可以通过链接下载: https://pan.baidu.com/s/1NXp9eK1p6Up4Kl8B3nJYDw?pwd=ggvj 提取码: ggvj
